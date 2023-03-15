@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: "Multiple Object Tracking from appearance by hierarchically clustering tracklets"
+  url: https://bmvc2022.mpi-inf.mpg.de/362/
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+  img: /static/assets/img/thumnails/bmvc_thumb.png
+  desc: British Machine Vision Conference (BMVC), London 2022. (Spotlight)
+  gh_user: NII-Satoh-Lab
+  repo: MOT_FCG
+  youtube:
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+# rvoS: https://www.youtube.com/watch?v=NDSs_Ib9V6E&ab_channel=CITUPC
+#
+#- name: "AEGNN: Asynchronous Event-based Graph Neural Networks"
+#  url: http://rpg.ifi.uzh.ch/docs/CVPR22_Schaefer.pdf
+#  i18n: jalpc
+#  img: /static/assets/img/landing/CVPR22_Schaefer.png
+#  desc: Conference on Computer Vision and Pattern Recognition (CVPR) 2022 in New Orleans, USA
+#  gh_user: uzh-rpg
+#  repo: aegnn
+#  youtube: opbFE6OsAeA

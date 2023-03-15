@@ -5,7 +5,7 @@ title: agirbau
 description: Andreu Girbau's website
 keywords: Girbau, Andreu, github, gh-pages, nii, upc
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://agirbau.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://agirbau.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: agirbau  # Be used at blog posts' author.
   first_name: Andreu  # Be used at index page about me section.
   last_name: Girbau Xalabarder  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/face.jpg  # upload your avatar at directory and edit it.
   github_username: agirbau  # Leave blank if you don't have now
   linkedin_id: andreu-girbau-xalabarder # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
