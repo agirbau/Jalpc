@@ -4,7 +4,7 @@
 - name: "Multiple Object Tracking from appearance by hierarchically clustering tracklets"
   url: https://bmvc2022.mpi-inf.mpg.de/362/
   i18n: jalpc
-  img: /static/assets/img/thumnails/bmvc_thumb.png
+  img: /static/assets/img/thumbnails/bmvc_thumb.png
   desc: British Machine Vision Conference (BMVC), London 2022. (Spotlight)
   gh_user: NII-Satoh-Lab
   repo: MOT_FCG
